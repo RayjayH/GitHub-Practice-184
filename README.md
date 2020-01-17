@@ -36,7 +36,7 @@
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Sarah Shy         | Section 001       | sarahshy            | <https://sarahshy.github.io/>     |
 | Sarah Shy Demo    | Section 001       | sarahshy            | <https://sarahshy.github.io/Shy-Github-Demo/> |
-
+| Ruijie Huang      | Section 001       | RayjayH             | <https://rayjayh.github.io/Ray-Stat184-repo/> |
 
 <br>
 
